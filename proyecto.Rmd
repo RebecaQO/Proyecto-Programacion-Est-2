@@ -1,0 +1,347 @@
+---
+title: "Determinantes de Discriminación en el Área Laboral"
+author: "Rebeca Quispe Orellana"
+output: pdf_document
+
+---
+
+## Introducción 
+
+El presente proyecto se enfocará en estudiar los determinantes predominantes del ingreso laboral en la encuesta hogares de Bolivia, en la gestión 2021.
+La discriminación es una problemática, que sigue presente en nuestro país en varios sectores, el cual trae muchos factores negativos para nuestra sociedad, la discriminación en Bolivia se mantiene como cuestión pendiente pese a los esfuerzos estatales por dotar al país con un marco normativo para combatirlo (Romano, 2021)
+
+En Diversos estudios han sido desarrollados para conocer los factores que explican los ingresos laborales en Bolivia; tomando en cuenta las  variables educación y experiencia, así como los problemas de discriminación y segregación por género y etnia (Muriel,2014)
+
+
+## Motivacion 
+
+Ante la complejidad del funcionamiento del mercado de trabajo, existe la necesidad de analizar sus componentes desde diversos enfoques. En este sentido, uno de los componentes del mercado de trabajo que más se ha analizado es el salario.
+
+Cuando se habla de discriminación a veces se puede tornar algo complicado y hasta difuso si no se utiliza este término como corresponde. Discriminar es dañar los derechos de alguien simplemente por ser quien es, según Camacho (2016) considera que para entender la discriminación primeramente se debe definir los conceptos como: raza, nacionalidad, religión, sexo, género, estado de salud u otra condición y luego determinar su relación con el contexto económico, social. 
+
+Según Gustavo Medina dijo que, “para mucha gente el racismo es un problema del pasado, cuando hoy mismo ocurren hechos de brutalidad en nombre de una supuesto ‘suprematismo racial’. Basta recordar que el 2008, cincuenta hermanos campesinos fueron golpeados, humillados, sometidos a arrastrarse de rodillas por las calles de Sucre por el solo hecho de defender los principios inclusivos de nuestra Constitución” (Figueroa Cornejo, 2022). La discriminación es una problemática latente en nuestra sociedad día a día nos encontramos con diferentes actos de discriminación en las diferentes áreas de interacción, los cuales son invisibilizados.
+
+ 
+## Marco Teorico 
+
+###	Discriminación laboral: 
+
+El trabajo está compuesto por varios factores, por lo cual existen diferencias entre los diversos tipos de trabajo, la fuerza laboral de los trabajadores se compone por los siguientes elementos nivel de calificación, productividad, tipo de ocupación que influyen para que en el mercado de trabajo no exista condiciones igualitarias de trabajo. 
+
+La desigualdad laboral surge a partir de las diferencias salariales, distintas oportunidades de trabajo o preferencias de trabajadores por las preferencias en el estado físico y genero estas desigualdades de trabajo son frecuentemente identificadas en los países en desarrollo.
+
+La Organización Internacional de Trabajo (OIT), define la discriminación laboral como aquel empleo y la ocupación que se trata de diferente forma y menos favorable, como consecuencia por determinadas características como el sexo.
+
+ La convención discriminación empleo y ocupación convencion de 1958, en su artículo 1 define la discriminación como cualquier distinción, exclusión o preferencia realizada en base a raza, color de piel, sexo, religión, pensamiento político, nacionalidad u origen social que tiene el efecto de anular o perjudicar la igualdad de oportunidades y tratamiento en el empleo u ocupación.
+La discriminación laboral se ha esbozado entorno a lo que sería calificado como un tratamiento diferencial de un grupo debido a características que no son relevantes en el ciclo de empleo, tales como el nivel socioeconómico, género, edad, etnia, religión, y orientación sexual (Veeman, 2010) 
+
+###	Consecuencias de la discriminación laboral
+
+La principal consecuencia de la discriminación laboral es que genera selectividad por parte del empleador al momento de determinar quiénes pueden acceder a las fuentes laborales de acuerdo a las exigencias creadas a partir de la demanda del puesto, el empleador será quien pondrá las exigencias al puesto laboral, lo que muchas veces genera barreras generando procesos de segmentación en el mercado de trabajo. 
+
+La discriminación laboral afecta negativamente al desarrollo social del país, debido a que genera que exista grupos de personas que son excluidos quienes tienden a debitarse a ocupaciones con menor salario, sin derechos ni beneficios laborales a los cuales se ven expuestos ante la necesidad de generar recursos para solventarse, lo genera otro tipo de problemas socioeconómicos como: la pobreza, discriminación social, alta dependencia de políticas sociales y aumenta los índices delictivos.
+
+### Mercado de trabajo
+
+El mercado de trabajo es un mercado particular donde el capital humano es considerada como principal mercancía; además el mercado de trabajo está estrechamente vinculado con las situaciones de ámbito social que genera las condiciones de empleo para la población.
+
+Se encuentra altamente vinculado con la regulación por parte del Gobierno mediante las leyes que rigen los derechos laborales y las formas de trabajo, debido a que brinda las condiciones necesarias tanto al empleador y al empleado, como sistema regulador para controlar el desarrollo del mercado laboral debido a que un buen desempeño traerá para el país beneficios económicos, sociales y políticos. 
+
+El mercado de trabajo es un objeto de constates cambios, donde en los últimos años ha sufrido modificaciones significativas tanto desde el punto de vista sociológico, económico y tecnológico, debido a los sucesos y cambios ocurridos en los últimos años que marcaron al mundo.
+
+###	Discriminación salarial
+
+La discriminación salarial acontece cuando un individuo con similares características a otro, y que solo difiere en sexo, religión u otras características, recibe menor salario por razones inexplicables distintas al desempeño en su trabajo (Diaz, 2015)
+
+La discriminación salarial entre mujeres y hombres como, la parte de la diferencia que no queda justificada por una distinta aportación de valor en el desempeño de un trabajo y que solo puede ser explicada en función del sexo de la persona que lo realiza. Es lo que se conoce como discriminación salarial directa o a posteriori. (Cadena, 2020)
+
+###	Descripción de los Ingresos Laborales y Factores de Relevancia
+
+En el Perú una investigación evalúa el comportamiento de los retornos a la educación superior en el mercado laboral  para  obtener una orientación acerca de hacia dónde se deben dirigir los esfuerzos gubernamentales y qué cambios estratégicos, donde  es necesario emprender, tomando como variables independientes los años de escolaridad, la experiencia, el estado civil, el género femenino, el lugar de residencia rural/urbano y como variable independiente la remuneración salarial. (Yamada, 2013)
+
+El factor más importante de incidencia sobre los ingresos laborales en el mercado laboral se encuentra relacionado con la edad, debido a los años de experiencia que pueda tener la persona, como un factor supuestamente garantiza una seguridad en la calidad de trabajo de desarrollar, siendo un elemento de medición la edad como factor influyente en el conocimiento y habilidades que puedan poseer las personas.
+
+### Salario y area 
+
+Otro factor es la zona donde se realiza la actividad productiva como variable que influye en el nivel salarial de acuerdo a la ubicación geográfica y a las condiciones del lugar debido a que la calidad de educación, lo que genera un impacto sobre las remuneraciones salariales entre quienes trabajan en zonas rurales en comparación a quienes trabajan en ciudades, donde existe una distinción salarial. (Chala Nieto & Xiomara, 2015)
+
+Según el instituto Nacional de Estadística en Bolivia, determina el ingreso del económico laboral y no laboral, en el área rural y área urbano, donde se evidencia distinciones debido a la región.
+
+### Salario y experiencia
+
+ Una determínate importante es la experiencia, que es determinante para obtener un nivel salarial elevado, puede depender del tipo de formación, si el trabajo a realizar requiere o no experiencia para ser ejercido y el sector de la economía donde se va a desarrollar la labor.  
+ 
+ 
+ La metodología para medir qué variables explican la desigualdad salarial se debe basar en el modelo teórico de Mincer (1974), establecen la necesidad de incluir la variable de experiencia al cuadrado, a fin de determinar en qué punto esta variable comienza a decrecer. (Contreras & Gallegos, 2007)
+ 
+### Salario y sexo 
+
+Uno de los determinantes más controversiales si influye radicalmente en el nivel salarial se relaciona al tema del sexo, tal situación se encuentra en un proceso de cambio debido a ala lucha de movimientos sociales donde buscan reivindicar los derechos de las mujeres con sigo mejorar las condiciones y calidades de trabajos sin distinción.
+
+
+En el mundo la disparidad de género en la escuela primaria y secundaria no sólo se está reduciendo en todo el mundo, sino que la matriculación de mujeres en la educación superior iguala o supera la de los hombres, con excepción en África y Asia, las mujeres siguen ejerciendo profesiones peor remuneradas que los varones, aunque con un nivel de educación y experiencia laboral equivalente (Conferencia Internacional del Trabajo, 2006)
+
+ Las instituciones públicas y privadas del mercado de trabajo no representan un escenario neutral, sino que reflejan las relaciones de poder en la economía y en la sociedad en general, provocando distinciones entre grupos sociales por determinantes que influyen en la discriminación laboral.
+
+
+## Preguntas de investigación
+
+  ¿Cuáles son los determinantes de la discriminación salarial en la encuesta     hogares 2021?
+  
+## Objetivos:
+
+- Determinar los determinantes que influyen en la discriminación salarial 
+
+- Construir un modelo de regresión, con relación a la discriminación salarial
+	
+## Metodología:
+
+La presente investigación sigue un diseño descriptivo y cuantitativo, ya que pretende identificar los factores determinantes del ingreso laboral, utilizando como base de datos la encuesta hogares 2021 para Bolivia, donde solamente se trabajará con la información de la muestra.
+Se constituye descriptivo dado que los datos encontrados sirven para analizar cómo se manifiestan los salarios de las personas encuestadas mediante estadísticas descriptivas las características laborales y socioeconómicas de los mismos.
+
+## Modelo:
+
+Para el alcance del objetivo principal de las investigación, se emplea la función de ingresos miscelánea bajo mínimos cuadrados ordinarios para estudiar los efectos del ingreso laboral en la educación y la formación laboral,  un modelo mincer 1974, el cual establece que el ingreso de las personas depende de los años de educación experiencia y experiencia al cuadrado esto es:
+$$In(y_i)=\beta_0+\beta_1 Edu_{i}+\beta_2 Exp_{i2}+\beta_2 Exp_{i2}+\epsilon_i$$
+
+## Variables
+
+- Escolaridad: El número de años de escolaridad alcanzados, variable numérica. Donde donde el resultado esperado del estimador que acompaña la variable es un efecto positivo en los ingresos laborales si los individuos tienen un mayor nivel de estudios pueden obtener salarios más altos.
+   
+	 
+- Experiencia laboral: Son los años de experiencia laboral potencial del individuo.Esta variable para fines de estimación fue calculada como un proxy de la verdadera experiencia laboral, medida en años; es la diferencia de la EDAD menos los años de educación formal, menos seis.Donde el resultado esperado del estimador que acompaña la variable es un efecto positivo en los ingresos laborales si los individuos tienen un mayor nivel de experiencia pueden obtener salario potencial de mercado mucho mayor.
+
+- Experiencia laboral al cuadrado: Es el cuadrado de la experiencia, una variable numérica. Donde el
+resultado esperado del estimador que acompaña a la variable es un efecto negativo en los ingresos laborales esta variable capta el efecto marginal decreciente de la edad y la experiencia.
+
+Otras Variables
+
+- Sexo
+
+- Area de localidad
+
+- Departamento
+
+- Ocupacion Principal 
+
+- Estado Civil 
+
+
+## Analisis Estadistico
+
+En este punto tiene analisis descriptivo de las variables de estudio, para poder determinar algun comportamiento entre ellas. De igual forma se realizara una breve distincion comparativa de las variables cualitativas, en sus respectivos niveles, realizando una comparacion de su ingreso laboral, experencia, años de educacion. 
+
+```{r warning=FALSE, , message=FALSE, paged.print=FALSE, echo=FALSE}
+rm(list=ls())
+library(dplyr)
+library(haven)
+load(url("https://github.com/AlvaroLimber/MD_umsa/raw/main/data/eh21.RData"))
+#personas ocupadas o que al menos trabajo una hora a la semana
+# edad entre los 18 y 55
+# sueldo mayor al 5 percentil
+# menor al 95 percentil
+bd<-eh21p%>%filter(ocupado==1& s01a_03>=18 & s01a_03<=55& ylab>=300.125 & ylab<=7550)%>% mutate(EstCivil=s01a_10==2,EjeCentral=factor(depto==2|depto==3|depto==7))
+# quantile(eh21p$ylab,c(0.05,0.95),na.rm = T)
+bdm<-bd%>%select(s04b_11ab,s04b_11aa,cob_op,ylab,area,aestudio,s01a_10,s01a_02,depto,folio,s01a_03,EstCivil,EjeCentral)
+bdm<-bdm%>%filter(s04b_11ab==4)%>%mutate(aexp=(s01a_03-6))%>%select(aexp,cob_op,ylab,area,aestudio,s01a_10,s01a_02,depto,folio,EstCivil,EjeCentral,s01a_03)
+
+bda<-bd%>%select(s04b_11ab,s04b_11aa,cob_op,ylab,area,aestudio,s01a_10,s01a_02,depto,folio,s01a_03,EstCivil,EjeCentral)
+bda<-bda%>%filter(s04b_11ab==8)%>%mutate(aexp=s01a_03-6)%>%select(aexp,cob_op,ylab,area,aestudio,s01a_10,s01a_02,depto,folio,EstCivil,EjeCentral,s01a_03)
+bdt<-rbind(bda,bdm)
+auxI<-bdt
+
+```
+
+### Tabla 1 : Comparacion ingreso laboral y sexo 
+
+#### Resultados para Hombres 
+
+```{r warning=FALSE, , message=FALSE, paged.print=FALSE, echo=FALSE}
+library(ggplot2)
+
+bdt1<-bdt%>%filter(s01a_02==1)
+AñosEstudio<-summary(bdt1$aestudio)
+AñosExperencia<-summary(bdt1$aexp)
+IngresoLaboral<-summary(bdt1$ylab)
+t2<-rbind(AñosEstudio,AñosExperencia,IngresoLaboral)
+
+knitr::kable(t2)
+
+
+```
+#### Resultados para Mujeres
+```{r warning=FALSE, , message=FALSE, paged.print=FALSE, echo=FALSE}
+library(ggplot2)
+
+
+bdt1<-bdt%>%filter(s01a_02==2)
+AñosEstudio<-summary(bdt1$aestudio)
+AñosExperencia<-summary(bdt1$aexp)
+IngresoLaboral<-summary(bdt1$ylab)
+t2<-rbind(AñosEstudio,AñosExperencia,IngresoLaboral)
+
+knitr::kable(t2)
+
+```
+
+De los resultados obtenidos, en la primera la tabla son los resultados de los hombres y la segunda de las mujeres, donde podemos notar una diferencia en sus ingresos laborales, mientras los años de educación y años de experiencia son similares 
+
+
+### Tabla 2 : Comparacion ingreso laboral y area 
+
+### Area Urbana 
+
+```{r warning=FALSE, , message=FALSE, paged.print=FALSE, echo=FALSE}
+library(ggplot2)
+
+bdt1<-bdt%>%filter(area==1)
+AñosEstudio<-summary(bdt1$aestudio)
+AñosExperencia<-summary(bdt1$aexp)
+IngresoLaboral<-summary(bdt1$ylab)
+t2<-rbind(AñosEstudio,AñosExperencia,IngresoLaboral)
+
+knitr::kable(t2)
+
+
+
+```
+
+### Area rural
+
+```{r warning=FALSE, , message=FALSE, paged.print=FALSE, echo=FALSE}
+
+bdt1<-bdt%>%filter(area==2)
+AñosEstudio<-summary(bdt1$aestudio)
+AñosExperencia<-summary(bdt1$aexp)
+IngresoLaboral<-summary(bdt1$ylab)
+t2<-rbind(AñosEstudio,AñosExperencia,IngresoLaboral)
+
+knitr::kable(t2)
+
+
+```
+
+Del resultado obtenido,podemos ver que los ingresos laborales, segun el area de una persona, puede variar, si vive en el area rural los ingresos laborales son mas bajos e incleso cuentan con menos años de educacion, en comparación en el area urbana.
+
+## Aplicacion del modelo Micer
+
+Encontrar factores determinantes del ingreso de las personas encuestadas en la encuesta hogares 2021 se realizó la estimación de Mincer para estudiar el efecto del ingreso laboral según los años de formación y los años de experiencia, asimismo añadiendo algunas otras variables para para enriquecer el modelo de Mincer,  las variables a implementar serán sexo área ocupación principal departamento y estado civil.
+
+## Modelo 1
+
+para el primer modelo consideraremos para las variables sexo, es una variable dicotómica, donde la estimador que acompañará a esta variable, se analizará con respecto a las mujeres y asimismo para la variable area que es una variable dicotómica, el estimador que acompañará a la variable, ayudará a  describir la relación de las personas que viven en el área rural.
+
+
+
+
+```{r warning=FALSE, , message=FALSE, paged.print=FALSE, echo=FALSE}
+library(lmtest)
+library(car)
+library(nortest)
+bdt<-bdt%>% mutate(Ocupacion=factor(cob_op),Area=factor(area),EstCivil=factor(s01a_10),Sexo=factor(s01a_02),Departamento=factor(depto))%>%rename(sexo=s01a_02)%>%select(Ocupacion,Area,EstCivil,Sexo,Departamento,ylab,aexp,aestudio,sexo)
+m4<-lm(log(ylab)~poly(aexp,2)+aestudio+Area+EstCivil+Sexo+Ocupacion+Departamento,data=bdt)
+#step(m4)
+
+x<-summary(m4)
+ee6<-residuals(m4)
+
+aux1<-na.omit(bdt)
+cdm4<-cooks.distance(m4)
+qq<-quantile(cdm4,c(0.94))
+bdt2<-cbind(aux1,cdm4)
+bdt2<-bdt2%>%filter(cdm4<qq[[1]])
+
+m4<-lm(log(ylab)~poly(aexp,2)+aestudio+Area+EstCivil+Sexo+Ocupacion+Departamento,data=bdt2)
+x<-summary(m4)
+knitr::kable(x$coefficients)
+
+```
+
+Resultados del primer modelo
+
+-	Experiencia laboral tenemos un estimador de 8,64 que significa que mientras más experiencia laboral tiene una persona puede incrementar su sueldo,  pero la experiencia del cuadrado tiene un estimador negativo de 4.13 es decir que cuanto más se incremente los años de experiencia tiende a reducir ingreso laboral.
+
+-	Años de estudio, mientras una persona tiene más años de estudio puede incrementar al 2.10% su ingreso laboral.
+
+-	Área, si una persona vive en el área rural decrece su sueldo en 2.66 %
+
+-	Según el sexo de una persona, si una persona es mujer decrece su sueldo en 28.49%
+
+-	Estado civil, si una persona es no soltera, tiende a incrementar un determinado porcentaje en su ingreso laboral a lo que posiblemente sean los jefes de hogar donde ellos tienen que buscar el bienestar de una familia.
+
+-	Según la ocupación principal, podemos ver que el sueldo decrementa según el oficio desempeña, una persona que trabaja en el sector informal tiene mayor porcentaje de decremento en su sueldo que una persona que trabaja en el sector formal.
+
+-	Departamento podemos ver que va a ir variando el incremento dependiendo donde la persona se encuentra
+
+
+## Modelo 2
+
+Para este modelo consideraremos para las variables sexo, es una variable dicotómica, donde la estimador que acompañará a esta variable, se analizará con respecto a las hombres  y asimismo para la variable area que es una variable dicotómica el estimador que acompañará a la variable ayudar a describir la relación de las personas que viven en el área urbana.
+
+```{r warning=FALSE, , message=FALSE, paged.print=FALSE, echo=FALSE}
+bdt2<-bdt2%>%mutate(Area=factor((Area==1)+1-1),Sexo=factor((Sexo==1)+1-1))
+m4<-lm(log(ylab)~poly(aexp,2)+aestudio+Area+EstCivil+Sexo+Ocupacion+Departamento,data=bdt2)
+x<-summary(m4)
+knitr::kable(x$coefficients)
+```
+
+Resultados 
+
+-	Experiencia laboral tenemos un estimador de 7.768 que significa que mientras más experiencia laboral tiene una persona puede incrementar su sueldo,  pero la experiencia del cuadrado tiene un estimador negativo de 4.13 es decir que cuanto más se incremente los años de experiencia tiende a reducir ingreso laboral.
+
+-	Años de estudio, mientras una persona tiene más años de estudio puede incrementar al 2.010% su ingreso laboral.
+
+-	Área, si una persona vive en el área urbana incrementa su sueldo en 2.66 %
+
+-	Según el sexo de una persona, si una persona es hombre su sueldo incrementa su sueldo en 28.49%
+
+-	Estado civil, si una persona es no soltera, tiende a incrementar un determinado porcentaje en su ingreso laboral a lo que posiblemente sean los jefes de hogar donde ellos tienen que buscar el bienestar de una familia.
+
+-	Según la ocupación principal, podemos ver que el sueldo decrementa según el oficio desempeña, una persona que trabaja en el sector informal tiene mayor porcentaje de decremento en su sueldo que una persona que trabaja en el sector formal.
+
+-	Departamento podemos ver que va a ir variando el incremento dependiendo donde la persona se encuentra
+
+## Conclusion 
+
+nicialmente se realizó una estimación del 
+modelo con el fin de determianar los detertimantes para las  diferencias salariales, donde para algunas de las variables, con la relacion con el ingreso labora son negativas, por el cual se creo otro medolo para determinar si con otro subnivel de la variable tiene una relacion posiva. 
+A partir de esa diferencia, es donde podemos concluir que aun  existe diferencias en los ingresos laborales según el sexo o en area de localidad de una persona, a pesar de los los años de educacion o experiencia que tiene la persona.
+
+
+## Bibliografía
+
+Cadena, V. M. (2020). DISCRIMINACIÓN SALARIAL POR GÉNERO: ANÁLISIS DE LAS EMPRESAS DEL SECTOR PRIVADO EN EL EJE CENTRAL DE BOLIVIA. Bolivia Cochabamba.
+
+Camacho, C. (2016). Analisis de los factores determinantes de la discriminacion salarial por genero. La Paz, Bolivia.
+
+Chala Nieto, Y., & Xiomara, C. (2015). RELACIÓN DE LOS AÑOS DE EDUCACIÓN, EXPERIENCIA Y GENERO, CON EL SALARIO EN BOGOTA. Colombia.
+
+Diaz, E. (2015). La desigualdad salarial entre mujeres y hombres, alcances y limitaciones. Chile, Santiago.
+
+Figueroa Cornejo, A. (31 de Mayo de 2022). Bolivia: La lucha contra el racismo y la discriminación. Bolivia: La lucha contra el racismo y la discriminación. Bolivia.
+
+Romano, G. (24 de Mayo de 2021). El racismo en Bolivia, cuestión pendiente marcada por la distinción económica. Obtenido de https://www.swissinfo.ch/spa/bolivia-racismo_el-racismo-en-bolivia--cuesti%C3%B3n-pendiente-marcada-por-la-distinci%C3%B3n-econ%C3%B3mica/46645822
+
+Yamada, G. (2013). RETORNOS A LA EDUCACIÓN SUPERIOR EN EL MERCADO. Peru: Universidad del Pacífico.
+
+
+
+## Anexo
+
+
+```{r pressure, echo=FALSE}
+ggplot(auxI,aes(factor(s01a_02),ylab))+geom_boxplot()
+ggplot(auxI,aes(factor(area),ylab))+geom_boxplot()
+ggplot(auxI,aes(factor(depto),ylab))+geom_boxplot()
+
+ee6<-residuals(m4)
+plot(density(ee6))
+curve(dnorm(x,0,sd(ee6)),add = T,col="red")
+```
+
+
+
+
+
+
+
